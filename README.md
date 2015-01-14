@@ -18,6 +18,11 @@ I start my morning with a cup of coffee and
 
 [ny times]: http://www.nytimes.com/
 
+![alt text][id]
+
+[id]: /path/to/img.jpg "Title"
+<img src="/path/to/img.jpg" alt="alt text" title="Title" />
+
 
 #This is pumpkinflower's blog.
 ##this file is a test.
